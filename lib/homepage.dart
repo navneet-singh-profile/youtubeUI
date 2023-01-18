@@ -109,7 +109,7 @@ class Sidebar extends StatelessWidget {
     return Container(
       color: const Color.fromARGB(255, 33, 33, 33),
       child: ListView(
-        padding: EdgeInsets.all(10),
+        padding: const EdgeInsets.all(10),
         children: [
           const SidebarMenuItem("Home", Icon(Icons.home_filled)),
           const SidebarMenuItem("Explore", Icon(Icons.explore_outlined)),
@@ -265,11 +265,11 @@ AppBar appBar() {
                   borderSide: BorderSide(
                       width: 1, color: Color.fromARGB(255, 48, 48, 48)),
                 ),
-                enabledBorder: OutlineInputBorder(
+                enabledBorder: const OutlineInputBorder(
                   borderSide: BorderSide(
                       width: 1, color: Color.fromARGB(255, 48, 48, 48)),
                 ),
-                focusedBorder: OutlineInputBorder(
+                focusedBorder: const OutlineInputBorder(
                   borderSide: BorderSide(
                       width: 1, color: Color.fromARGB(255, 48, 48, 48)),
                 ),
