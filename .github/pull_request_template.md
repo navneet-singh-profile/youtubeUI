@@ -1,12 +1,15 @@
 ##### Issue ticket number and link [HF-100](http://example.com "HF-100")
 
-
 ##  Description
 
 Please include a summary of the changes and the related issue. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
-[Screenshots of each screen] - In UI story
+[Screenshots of each screen] - In the UI story
+
+<img   height="250" src="https://user-images.githubusercontent.com/38186272/232344206-2ad59623-3729-410f-9317-21382013daa4.jpg">
+
 [Video] - In UI story/Functionality implementation
+
 
 ## Type of change
 
@@ -44,7 +47,8 @@ Follow this for UI story/ UI changes
 	- [ ] Larger Device
 - [ ] With Gesture Navigation
 - [ ] Button Navigation
-- [ ] TextScaling
+- [ ] Text Scaling
+- [ ] Display Size Change Check
 
 **Test Configuration**:
 * Android OSs: [List versions]
