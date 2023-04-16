@@ -124,6 +124,7 @@ class VideoCard extends StatelessWidget {
   }
 }
 
+// widgets
 class CustomChip extends StatelessWidget {
   final String title;
 
