@@ -30,7 +30,7 @@ Please delete options that are not relevant. Add new if required
 
 Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
 
-Follow this for regular story
+Follow this for the regular story
 
 - [ ] Functionality Check
 - [ ] Story Check
@@ -46,9 +46,9 @@ Follow this for UI story/ UI changes
 	- [ ] Smaller Device
 	- [ ] Larger Device
 - [ ] With Gesture Navigation
-- [ ] Button Navigation
-- [ ] Text Scaling
-- [ ] Display Size Change Check
+- [ ] With Button Navigation
+- [ ] Text scaling
+- [ ] Display size scaling
 
 **Test Configuration**:
 * Android OSs: [List versions]
@@ -60,7 +60,7 @@ Follow this for UI story/ UI changes
 
 - [ ] Followed guidelines of the project
 - [ ] I have performed a self-review of my code
-- [ ] I have commented my code, particularly in hard-to-understand areas
+- [ ] I have commented on my code, particularly in hard-to-understand areas
 - [ ] I have made corresponding changes to the documentation
 - [ ] No visible warnings
 - [ ] Run dart format
@@ -68,4 +68,4 @@ Follow this for UI story/ UI changes
 
 
 ##### Note:
-Any important message that needs to some light.
+Any important message that needs some light.
